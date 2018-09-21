@@ -2,6 +2,7 @@ package com.zpf.imageloader.imageLoader;
 
 public interface ILoaderStrategy {
 
+
     void loadImage(LoaderOptions options);
 
     /**
