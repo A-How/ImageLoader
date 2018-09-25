@@ -8,6 +8,7 @@ import java.io.File;
 /**
  * 图片管理类，对外提供接口
  * 静态代理模式，开发者只需关注 ImageLoader + LoaderOptions
+ * https://www.jianshu.com/p/09f2689499d0
  */
 public class ImageLoader {
 
